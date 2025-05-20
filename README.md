@@ -59,7 +59,7 @@ This is a simple and interactive web application that lets you apply artistic st
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/neural-style-transfer-app.git
+git clone https://github.com/Abid839/Neural-Image-Transmission.git
 cd neural-style-transfer-app
 ```
 ### 2. (Optional) Set up a virtual environment
