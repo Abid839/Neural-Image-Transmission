@@ -97,8 +97,7 @@ Show Progress	Preview results after each epoch
 <pre>
 ├── app.py                 # Main app script
 ├── requirements.txt       # Python dependencies
-├── docs/
-│   └── nst_flowchart.png  # Visual workflow of the app
+├── docs
 └── README.md              # This file!
 </pre>
 
