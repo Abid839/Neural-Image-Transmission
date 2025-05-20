@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/126c8618-3df5-4b9e-982a-04bbefb666e6)![image](https://github.com/user-attachments/assets/0ce07008-a982-4535-9b12-99a5c5f0abaf)
 # 🎨 Neural Style Transfer Web App
 
 Hey there! 👋 This is a simple and interactive **Neural Style Transfer** app built with **Streamlit** and **TensorFlow**. You can upload two images — one as content and one as style — and the app will blend them to generate a brand-new, stylized image. You can also visualize training loss and download both the output and the loss plot.
@@ -17,6 +16,9 @@ https://drive.google.com/file/d/1h9Plpw7fFEt8va81M9YWNSGYm7nMSJFV/view?usp=shari
 
 ## 📽️ Presentation
 
+https://drive.google.com/file/d/16Hi0Ry0cELMLyfClyD7ykkyeCxdMu-zp/view?usp=sharing
+
+---
 ## 🔍 What This App Does
 
 - Lets you **upload content and style images**
